@@ -1,4 +1,4 @@
-# Dynamixel_motor_control
+# Dynamixel_motor_control [MX64]
 Single motor, Mutli motor and Motor home reset 
 
 1. This code is better used in Ubuntu
