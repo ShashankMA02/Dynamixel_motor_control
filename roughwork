@@ -1,0 +1,24 @@
+for motorID1 in range of(2048 to 1540):
+    for motorID2 in range of(2048 to 2557):
+        increment in steps of 5 from 2048 to 2557
+        Reset to home[2048]
+
+    for motorID3 in range of(2048 to 1540):
+        increment in steps of -5 from 2048 to 1540
+        Reset to home[2048]
+
+    for motorID4 in range of(2048 to 2557):
+        increment in steps of 5 from 2048 to 2557
+        Reset to home[2048]
+
+    for motorID5 in range of(2048 to 1540):
+        increment in steps of -5 from 2048 to 1540
+        Reset to home[2048]
+
+    for motorID6 in range of(2048 to 2557):
+        increment in steps of 5 from 2048 to 2557
+        Reset to home[2048]
+
+    increment motorID1 in steps of -5 in range of(2048 to 1540)
+
+    
